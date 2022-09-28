@@ -1,5 +1,0 @@
-﻿빌드 시작...
-1>------ 빌드 시작: 프로젝트: prob2, 구성: Debug x64 ------
-1>prob2.cpp
-1>prob2.vcxproj -> C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\3week\prob2\prob2\x64\Debug\prob2.exe
-========== 빌드: 1 성공, 0 실패, 0 최신 업데이트, 0 건너뛰기 ==========

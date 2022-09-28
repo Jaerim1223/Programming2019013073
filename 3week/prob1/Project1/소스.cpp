@@ -13,7 +13,7 @@ int main(void)
 	if (age < 20)
 	{
 		if (chestsize < 85) size = 'S';
-		else if ((chestsize >= 85) && (chestsize < 95)) size = 'M';
+		else if ((chestsize >= 85 )&&(chestsize < 95)) size = 'M';
 		else size = 'L';
 	}
 	else
