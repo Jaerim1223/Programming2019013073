@@ -1,0 +1,5 @@
+﻿빌드 시작...
+1>------ 빌드 시작: 프로젝트: prob3, 구성: Debug x64 ------
+1>prob3.cpp
+1>prob3.vcxproj -> C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\5week\prob03\prob3\x64\Debug\prob3.exe
+========== 빌드: 1 성공, 0 실패, 0 최신 업데이트, 0 건너뛰기 ==========
