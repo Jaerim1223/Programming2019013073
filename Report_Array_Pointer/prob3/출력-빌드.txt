@@ -1,0 +1,6 @@
+﻿빌드 시작...
+1>------ 빌드 시작: 프로젝트: prob3, 구성: Debug x64 ------
+1>소스.c
+1>C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\Report_Array_Pointer\prob3\소스.c(67,17): warning C4048: 배열 첨자가 다릅니다. 'int (*)[2]'과(와) 'int [3][3]'
+1>"prob3.vcxproj" 프로젝트를 빌드했습니다.
+========== 빌드: 1 성공, 0 실패, 0 최신 업데이트, 0 건너뛰기 ==========
