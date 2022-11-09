@@ -1,0 +1,8 @@
+﻿  prob2.cpp
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob2\prob2.cpp(10,27): error C2440: '초기화 중': 'const char [11]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob2\prob2.cpp(10,13): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob2\prob2.cpp(14,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob2\prob2.cpp(14,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob2\prob2.cpp(14,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob2\prob2.cpp(14,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob2\prob2.cpp(15,17): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
