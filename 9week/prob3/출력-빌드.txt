@@ -1,0 +1,12 @@
+﻿빌드 시작...
+1>------ 빌드 시작: 프로젝트: prob3, 구성: Debug x64 ------
+1>prob3.cpp
+1>C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob3\prob3.cpp(9,13): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+1>C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob3\prob3.cpp(9,13): message : 이 인수는 버퍼 크기로 사용됩니다.
+1>C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob3\prob3.cpp(9,13): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+1>C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob3\prob3.cpp(9,13): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 6개 필요하지만 3개가 제공되었습니다.
+1>C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob3\prob3.cpp(9,13): message : 누락된 variadic 인수 4이(가) 서식 문자열 '%s'에 필요합니다.
+1>C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob3\prob3.cpp(9,13): message : 이 인수는 버퍼 크기로 사용됩니다.
+1>prob3.vcxproj -> C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\9week\prob3\x64\Debug\prob3.exe
+1>"prob3.vcxproj" 프로젝트를 빌드했습니다.
+========== 빌드: 1 성공, 0 실패, 0 최신 업데이트, 0 건너뛰기 ==========
