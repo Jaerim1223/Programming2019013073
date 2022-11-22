@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\10week\p511 prob6\소스.cpp(13,29): error C2676: 이항 '++': 'COLOR'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\10week\p511 prob6\소스.cpp(15,12): error C2676: 이항 '++': 'ARROW'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\10week\p511 prob6\소스.cpp(16,28): error C2440: '=': 'int'에서 'ARROW'(으)로 변환할 수 없습니다.
+C:\Users\Administrator\OneDrive\문서\GitHub\Programming2019013073\10week\p511 prob6\소스.cpp(16,25): message : 열거형 형식으로 변환하려면 명시적 캐스트(static_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트)가 필요합니다.
